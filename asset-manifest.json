@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/antonunderthesurface/static/css/main.e3c56174.css",
-    "main.js": "/antonunderthesurface/static/js/main.6ea9e935.js",
+    "main.css": "/antonunderthesurface/static/css/main.f6f23198.css",
+    "main.js": "/antonunderthesurface/static/js/main.e23a0e55.js",
     "static/js/787.ddafabfa.chunk.js": "/antonunderthesurface/static/js/787.ddafabfa.chunk.js",
     "index.html": "/antonunderthesurface/index.html",
-    "main.e3c56174.css.map": "/antonunderthesurface/static/css/main.e3c56174.css.map",
-    "main.6ea9e935.js.map": "/antonunderthesurface/static/js/main.6ea9e935.js.map",
+    "main.f6f23198.css.map": "/antonunderthesurface/static/css/main.f6f23198.css.map",
+    "main.e23a0e55.js.map": "/antonunderthesurface/static/js/main.e23a0e55.js.map",
     "787.ddafabfa.chunk.js.map": "/antonunderthesurface/static/js/787.ddafabfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3c56174.css",
-    "static/js/main.6ea9e935.js"
+    "static/css/main.f6f23198.css",
+    "static/js/main.e23a0e55.js"
   ]
 }

@@ -10,7 +10,9 @@ Have any questions or wanna sign up for a Freediving course? The best way to con
 ## Social Media
 
 ![social-icon](https://www.instagram.com/antonunderthesurface/) antonunderthesurface
+
 ![social-icon](https://www.facebook.com/anton.fur) anton.fur
+
 ![social-icon](https://www.youtube.com/channel/UCKZVu9bJMCByTVp4fx1nqYw) Swedish Sportsdiving federation
 
 ## WhatsApp
